@@ -18,8 +18,8 @@ app.post('/bfhl', (req, res) => {
     // Initialize response object with default values
     const response = {
         is_success: false, // Will be set to true on successful processing
-        user_id: "john_doe_17091999", // As per example in the problem statement
-        email: "shivanshu2330.be@chitkara.edu.in", // As provided by you
+        user_id: "yajur_mittal_26042004", // As per example in the problem statement
+        email: "yajur2550.be22@chitkara.edu.in", // As provided by you
         roll_number: "2330BE00000", // Placeholder - You might want to adjust this
         odd_numbers: [],
         even_numbers: [],
